@@ -1,7 +1,8 @@
 ## Oiii! Eu me chamo Jayane Pontes e sou do Rio de Janeiro..
  <a href = "mailto:pontesjayane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jayane-pontes-001066215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D22AQHE_RK_7pQEAQ/feedshare-shrink_2048_1536/0/1650850245450?e=2147483647&v=beta&t=FCG305S6_tBl14aCU0iYgg9jTyMHBwDdqUJEnw3NM8c">
+  <a href="www.linkedin.com/in/Jayane-Pontes" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right" alt="Jay-pic" height="250" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D22AQHE_RK_7pQEAQ/feedshare-shrink_2048_1536/0/1650850245450?e=2147483647&v=beta&t=FCG305S6_tBl14aCU0iYgg9jTyMHBwDdqUJEnw3NM8c">
 ###  Um pouco sobre mim.. 👀
 * 🌱 Atualmente estou estudando desenvolvimento de softaware fullstack na Trybe e estudando inglês por conta própria.
 * 🤩 Já conclui os módulos de fundamentos e front-end, onde adquiri muitas hardSkills e softSkills.
